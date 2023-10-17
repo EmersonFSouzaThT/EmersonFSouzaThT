@@ -3,6 +3,7 @@
 
 ## Linguagens de programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
+
 Estas são as linguagens que eu estou aprendendo no momento, tanto o curso na Cubos Academy quanto a Faculdade estão ajudando o meu desenvolvimento ténico nestas linguagens.
 
 ## Redes para contato
